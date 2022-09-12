@@ -5,4 +5,4 @@ age = 30
 str1 = 'です。'
 str2 = '歳です。'
 lastname += str1
-p lastname + age.to_s + str2
+puts lastname + age.to_s + str2
